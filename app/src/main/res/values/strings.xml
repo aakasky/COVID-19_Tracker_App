@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Covid-19 Tracker</string>
+    <string name="district">District</string>
+    <string name="active">ACTIVE</string>
+    <string name="cured">CURED</string>
+    <string name="death">DEATH</string>
+    <string name="total">TOTAL</string>
+    <string name="acasenum">aCaseNum</string>
+    <string name="ccasenum">cCaseNum</string>
+    <string name="dcasenum">dCaseNum</string>
+    <string name="tcasenum">tCaseNum</string>
+    <string name="ainc">aInc</string>
+    <string name="cinc">cInc</string>
+    <string name="dinc">dInc</string>
+</resources>
